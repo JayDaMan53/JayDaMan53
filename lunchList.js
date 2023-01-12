@@ -33,3 +33,4 @@ var lunchList = {
   31: "Texas Toast Grilled Cheese + Tomato Basil Soup",
   32: "Waiting for next months menu!"
 }
+console.log("Test")
